@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of JCCategoryKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/lswhcmcc/JCCategoryKit",
+  "homepage": "https://github.com/JCComponent/JCCategoryKit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "lswhcmcc": "411863122@qq.com"
   },
   "source": {
-    "git": "https://github.com/lswhcmcc/JCCategoryKit.git",
+    "git": "https://github.com/JCComponent/JCCategoryKit.git",
     "tag": "0.1.0"
   },
   "platforms": {
